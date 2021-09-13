@@ -86,9 +86,9 @@
 // | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | SHFT(RET) |
 //                         | ALT | LWR | SPC | RSE  | ALT |
                         bindings = <
-   &kp ESC   &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L  &kp U     &kp Y   &kp SEMI    &kp BSPC
-   &kp TAB &kp A &kp R &kp S &kp T &kp G   &kp M &kp N  &kp E     &kp I   &kp O &kp SQT
-   &hm LCTRL MINUS &hm LEFT_ALT Z &hm LEFT_GUI X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp FSLH &mt RSHFT RET
+   &kp ESC   &kp Q &kp W &kp F &kp P &kp G   &kp J &kp L  &kp U     &kp Y   &kp SEMI    &kp BSPC
+   &kp TAB &kp A &kp R &kp S &kp T &kp D  &kp H &kp N  &kp E     &kp I   &kp O &kp SQT
+   &hm LCTRL MINUS &hm LEFT_ALT Z &hm LEFT_GUI X &kp C &kp B &kp V   &kp K &kp M  &kp COMMA &kp DOT &kp FSLH &mt RSHFT RET
                         &bh 2 DEL  &bh 1 SPACE &kp LEFT_SHIFT &none  &none
                         >;
                 };

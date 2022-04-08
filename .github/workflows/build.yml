@@ -27,8 +27,8 @@ jobs:
         #   - bfo9000_left
         #   - bfo9000_right
         #   - boardsource3x4
-          # - corne_left
-          # - corne_right
+          - corne_left
+          - corne_right
         #   - cradio_left
         #   - cradio_right
         #   - crbn
@@ -52,7 +52,7 @@ jobs:
         #   - qaz
         #   - quefrency_left
         #   - quefrency_right
-          - reviung41
+          # - reviung41
         #   - romac
         #   - romac_plus
         #   - settings_reset

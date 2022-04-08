@@ -101,8 +101,8 @@
 //                       |     |     | RET | ADJ |     |
                         bindings = <
    &kp GRAVE &kp N1    &kp N2    &kp N3    &kp N4    &kp N5        &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    &trans
-   &kp HOME &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp END       &none  &kp LEFT &kp UP    &kp DOWN &kp RIGHT &kp GRAVE
-   &trans &kp HOME   &kp PG_DN   &kp PG_UP &kp END &kp PIPE        &kp LC(PRINTSCREEN)  &kp BSLH  &kp EQUAL &trans &trans &mt RSHFT RET
+   &kp HOME &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp LBKT       &kp RBKT  &kp LEFT &kp UP    &kp DOWN &kp RIGHT &kp GRAVE
+   &trans &kp MINUS   &kp PLUS   &kp EQUAL &kp BACKSLASH &kp GRAVE        &sk LG(LSHFT)  &sk RALT  &kp LC(PRINTSCREEN) &trans &trans &trans
                                  &mo 3      &trans       &trans        &none       &none
                         >;
                 };
